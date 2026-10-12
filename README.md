@@ -1,1 +1,2 @@
 This software was developed by  Mashhad University Of Medical Sciences and Tabriz University OF Medical Sciences and belongs to them. You need to install MCR_R2013a_win64_installer before running
+You can cite this article as Sokouti M, Sadeghi R, Pashazadeh S, Eslami S, Sokouti M, Ghojazadeh M, et al. Meta-MUMS DTA: implementation, validation, and application of diagnostic test accuracy software for meta-analysis in radiology. Clinical epidemiology and global health. 2021;9:310-25.
